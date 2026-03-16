@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Mac
+.DS_Store
+
+# Data files
+data/
+
+# Large experiment outputs
+experiments/
+results/
+
+# Logs
+*.log
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Python cache
+.cache/
+
+# PyTorch checkpoints
+*.pt
+*.pth
+
+# Temporary files
+tmp/
+temp/
